@@ -1,3 +1,5 @@
+![Jeiya Kumari Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:1a75bb&height=200&section=header&text=Jeiya%20Kumari%20|%20Data%20Engineer%20|%20Python%20Developer&fontColor=ffffff&fontSize=30&animation=fadeIn)
+
 # 👋 Hi, I'm Jeiya Kumari  
 🎯 **Aspiring Data Engineer | Python Developer | Cloud Enthusiast**
 
