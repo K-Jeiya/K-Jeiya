@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Jeiya Kumari  
+🎯 **Aspiring Data Engineer | Python Developer | Cloud Enthusiast**
 
-<!--
-**K-Jeiya/K-Jeiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about building **data pipelines**, **ETL workflows**, and **real-time apps** that turn data into decisions.  
+Currently focused on **Data Engineering**, **Cloud Platforms (AWS & GCP)**, and **Generative AI apps**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🗳️ [Live Poll App](https://github.com/K-Jeiya/LivePollApp_JeiyaKumari) | Real-time poll dashboard using Kafka & Streamlit | Kafka · Streamlit · Python |
+| 💡 [NIC GenAI Startup Idea App](https://github.com/K-Jeiya/NIC_GENAI_APP) | AI-based startup plan generator for NIC | Streamlit · Gemini API · Python |
+| 🚴‍♀️ [Hubway Bike ETL Pipeline](https://github.com/K-Jeiya/Hubway-Bike-ETL-Pipeline) | PySpark ETL pipeline with MongoDB integration | PySpark · MongoDB · Python |
+| 🧱 [Chinook Data Warehouse](https://github.com/K-Jeiya/Chinook-DataWarehouse-OLAP) | OLAP Data Warehouse built in MySQL | SQL · MySQL · OLAP |
+| 📰 [News-to-Humor API](https://github.com/K-Jeiya/News-to-Humor-and-Lab-Scraper) | Flask API to convert news into humor | Flask · API · LLM |
+
+---
+
+### 🧰 Tech Stack
+💾 **Languages:** Python · SQL · Java · Bash  
+☁️ **Cloud & Tools:** AWS · GCP · Airflow · Docker · Streamlit · Kafka · MongoDB  
+📊 **Data:** Pandas · PySpark · MySQL · PostgreSQL  
+🧠 **ML & GenAI:** Gemini API · HuggingFace · LLM APIs  
+🔧 **Version Control:** Git · GitHub
+
+---
+
+### 🏆 Certifications
+- Google Data Analytics (Coursera)  
+- Python for Data Science, AI & Development (Coursera)  
+- Web & Mobile App Development (SMIT)  
+- Data Engineering (CDE Batch 9 – Karachi.AI @ NUST)
+
+---
+
+### 🌍 Connect with Me
+📧 **Email:** [jeiyakumari@gmail.com](mailto:jeiyakumari@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/jeiyakumari](https://www.linkedin.com/in/jeiyakumari/)  
+🌐 **Portfolio:** [k-jeiya.github.io/Jeiya-Portfolio](https://k-jeiya.github.io/Jeiya-Portfolio/)
+
+---
+
+### 📈 GitHub Stats
+
+![Jeiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-Jeiya&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Jeiya&layout=compact&theme=tokyonight)
+
+---
+
+⭐ _“Turning data into impact — one pipeline at a time.”_
+
