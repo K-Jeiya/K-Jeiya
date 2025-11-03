@@ -46,7 +46,7 @@ Currently focused on **Data Engineering**, **Cloud Platforms (AWS & GCP)**, and 
 
 ![Jeiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-Jeiya&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Jeiya&layout=compact&theme=tokyonight&hide=html,css,javascript,c#)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Jeiya&layout=compact&theme=tokyonight&hide=html,css,javascript,C#)
 
 ---
 
